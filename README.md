@@ -16,3 +16,4 @@ A daily planner made using JavaScript, Bootstrap, and JQuery.
 
 
 
+https://github.com/carefree2706/donDailyPlanner/blob/main/assets/display%20.png?raw=true
