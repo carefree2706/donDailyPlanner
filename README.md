@@ -15,5 +15,8 @@ A daily planner made using JavaScript, Bootstrap, and JQuery.
 
 
 
+The link showcase the following elements:
+-day,date and time
+-time block, input info, and save button,
 
 https://github.com/carefree2706/donDailyPlanner/blob/main/assets/display%20.png?raw=true
